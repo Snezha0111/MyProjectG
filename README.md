@@ -1,2 +1,3 @@
 # MyProjectG
  Индивидуальный проект по теме: ...
+![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
